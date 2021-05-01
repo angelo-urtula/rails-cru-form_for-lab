@@ -1,0 +1,5 @@
+navigate song pages shows the name on the show page in a h1 tag
+navigate song pages displays a link to the genre page
+navigate song pages displays a link to the artist page
+song form shows a new form that submits content and redirects and prints out params
+song form shows an edit form that submits content and redirects and prints out params
